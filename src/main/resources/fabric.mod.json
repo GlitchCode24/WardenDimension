@@ -3,13 +3,12 @@
 	"id": "warden-dimension",
 	"version": "${version}",
 	"name": "Warden Dimension",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod adds functional warden portal to the game!",
 	"authors": [
-		"Me!"
+		"Glitched"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/GlitchCode24/WardenDimension"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/warden-dimension/icon.png",

@@ -51,7 +51,7 @@
     },
     "biome_source": {
       "type": "minecraft:fixed",
-      "biome": "minecraft:glit"
+      "biome": "warden-dimension:sculk_biome"
     }
   }
 }

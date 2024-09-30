@@ -1,23 +1,29 @@
 {
-  "precipitation": "none",
-  "category": "underground",
-  "temperature": 0.5,
-  "downfall": 0.0,
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "temperature_modifier": "none",
   "effects": {
-    "sky_color": 0,
-    "fog_color": 0,
+    "sky_color": 7907327,
+    "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011
   },
+  "spawners": {},
+  "spawn_costs": {},
   "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:canyon"
     ]
   },
-  "features": [],
-  "spawners": {
-    "creature": [],
-    "monster": []
-  }
+  "features": [
+    [
+      "minecraft:lake_lava_underground",
+      "minecraft:lake_lava_surface"
+    ],
+    [
+      "minecraft:amethyst_geode"
+    ]
+  ]
 }

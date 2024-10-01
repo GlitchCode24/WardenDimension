@@ -12,7 +12,7 @@
         "Name": "minecraft:sculk"
       },
       "default_fluid": {
-        "Name": "minecraft:water",
+        "Name": "minecraft:lava",
         "Properties": {
           "level": "0"
         }

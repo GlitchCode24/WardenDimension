@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:overworld",
+  "type": "warden-dimension:warden_type",
   "generator": {
     "type": "minecraft:noise",
     "settings": {
